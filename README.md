@@ -17,3 +17,10 @@ Templates and repositories on this organization include:
 - Template files for [behavioural tasks](https://github.com/structuredscience/TaskTemplate)
 - A template layout for [writing papers](https://github.com/structuredscience/PaperTemplate)
 - A template and collection of resources for [developing modules](https://github.com/structuredscience/ModuleTemplate)
+
+## Other Resources
+
+The following is an adhoc collection of other resources for template and related guides:
+
+- The [openlists](https://github.com/openlists) collection of openly available resources
+- The [Turing Way](https://github.com/alan-turing-institute/the-turing-way) guide for data science projects
